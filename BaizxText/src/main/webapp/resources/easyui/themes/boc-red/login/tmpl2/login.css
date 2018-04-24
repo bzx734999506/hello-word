@@ -1,0 +1,227 @@
+body {
+    font: 12px/20px "ËÎÌå", "ËÎÌå", Arial, sans-serif, Verdana, Tahoma;
+    background-color:#FFFFFF;
+    padding: 0;
+    margin: 0;
+}
+
+.max-div { 
+    padding: 0;
+    margin: 0;
+    background-color:#ffffff;
+    width:100%;
+    min-width:1280px;
+    height:580px;
+    position:absolute;
+    top:50%;
+    margin:-290px 0px;
+}
+
+.top {
+    border:0px;
+    height:106px;
+    width:100%;
+    min-width:1280px;
+    border-bottom:4px solid #C12F50;    
+}
+.top-content {
+    width:960px;
+    height:70px;
+    margin:0 auto;
+    padding:30px 0px 0px 20px;
+}
+.top .top-content .logo{
+    width:480px;
+    height:55px;
+    background:#FFFFFF url(images/content_logo.png) no-repeat 0 0;
+}
+.center {
+    background:#FFFFFF url(images/bg.png) repeat-x;
+    height:400px;
+}
+.center .center-content{
+    width:1280px;
+    height:420px;
+    margin:0 auto;
+}
+.center .center-content .left{
+    width:380px;
+    height:320px;
+    float:left;
+    margin:30px 0px 0px 20px;
+}
+.center .center-content .right{
+    background:url(images/login_bg.png) no-repeat;
+    float:right;
+    width:262px;
+    height:278px;
+    margin:60px 140px 0px 0px;
+}
+.center .center-content .right .login-header {
+    height:50px;
+    text-align:left;
+    margin:0px 21px;
+    font-size:16px;
+    font-weight:bold;
+    font-family:"Î¢ÈíÑÅºÚ";
+    color:#FFFFFF;
+    line-height:50px;
+}
+
+.center .center-content .right .textbox-user {
+    margin:20px auto;
+    margin-bottom:0px;
+    padding-left:5px;
+    width:195px;
+    height:30px;
+    vertical-align: middle;
+    background-color:#fff;
+}
+
+.center .center-content .right .textbox-user .icondiv {
+	padding:0px;
+	margin:0px;
+    float:left;
+    width:20px;
+    height:30px;
+    background-color:#fff;
+}
+
+.center .center-content .right .textbox-user .icondiv i {
+ 	background:url(images/icon_user.png) no-repeat;
+    padding:10px;
+    font-size:0px;
+}
+
+.center .center-content .right .textbox-user input{
+   float:left;
+   padding:0px;
+   padding-left:5px;
+   border:0px;
+   font-size:14px;
+   height:30px;
+   width:170px;
+   line-height:30px;
+   vertical-align: middle;
+}
+
+.center .center-content .right .textbox-pwd {
+    margin:20px auto;
+    margin-bottom:0px;
+    padding-left:5px;
+    width:195px;
+    height:30px;
+    vertical-align: middle;
+    background-color:#fff;
+}
+
+.center .center-content .right .textbox-pwd .icondiv {
+	padding:0px;
+	margin:0px;
+    float:left;
+    width:20px;
+    height:30px;
+    background-color:#fff;
+}
+
+.center .center-content .right .textbox-pwd .icondiv i {
+ 	background:url(images/icon_password.png) no-repeat;
+    padding:10px;
+    font-size:0px;
+}
+
+.center .center-content .right .textbox-pwd input{
+   float:left;
+   padding:0px;
+   padding-left:5px;
+   border:0px;
+   font-size:14px;
+   height:30px;
+   width:170px;
+   line-height:30px;
+   vertical-align: middle;
+}
+
+.center .center-content .right .textbox-domain {
+    margin:20px auto;
+    margin-bottom:0px;
+    padding-left:5px;
+    width:195px;
+    height:30px;
+    vertical-align: middle;
+    background-color:#fff;
+}
+
+.center .center-content .right .textbox-domain .icondiv {
+	padding:0px;
+	margin:0px;
+    float:left;
+    width:20px;
+    height:30px;
+    background-color:#fff;
+}
+
+.center .center-content .right .textbox-domain .icondiv i {
+ 	background:url(images/icon_field.png) no-repeat;
+    padding:10px;
+    font-size:0px;
+}
+
+.center .center-content .right .textbox-domain select{
+   float:left;
+   padding:0px;
+   padding-left:5px;
+   border:0px;
+   font-size:14px;
+   height:30px;
+   width:170px;
+   line-height:30px;
+   vertical-align: middle;
+}
+
+.center .center-content .right .login-button{
+    height:50px;
+    margin:15px 0px 15px 30px;
+    margin-bottom:0px;
+    width:255px;
+}
+
+.center .center-content .right .login-button input {
+    height:40px;
+    width:200px;
+    font-size:18px;
+    font-family:"å®‹ä½“";
+    color:#FFFFFF;
+    background-color:#E8484E;
+    cursor:pointer;
+    border:0px;
+}
+
+.center .center-content .right .login-button input:hover {
+    background-color:#C12F50;
+}
+
+.footer {
+    width:100%;
+    min-width:1280px;
+    color:#808080;
+    letter-spacing:1px;
+    text-align:center;
+    margin:0 auto;
+    font: 13px "ËÎÌå", "ËÎÌå", Arial, sans-serif, Verdana, Tahoma;
+    line-height:25px;
+    height:60px;
+    padding:10px 0px 5px 0px;
+}
+
+.message{
+	color:red;	 
+	text-align:center;
+    margin:0 auto;
+    line-height:30px;
+    height:30px;
+    font-size: 14px;
+    letter-spacing:1px;
+    background-color:#FFFEE6;
+    width:90%;
+}

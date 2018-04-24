@@ -1,0 +1,1407 @@
+/***tree菜单小图标系列
+    floattree 开头为顶部tree用到,其默认颜色为红色(.floattree .bf4j-icon-node-01)， 焦点颜色为白色(.floattree .tree-node-hover)
+    tree 开头为右侧tee用到,其默认颜色为灰色 (.floattree .bf4j-icon-node-01)， 焦点颜色为白色(.tree .tree-node-hover)
+****/
+.bf4j-icon-node-01,
+.floattree .bf4j-icon-node-01
+{background:url(images/config-icons.png) no-repeat -0px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-01,
+.tree .selectedNode .bf4j-icon-node-01,
+.tree .tree-node-hover .bf4j-icon-node-01
+{background:url(images/config-icons.png) no-repeat -0px -50px;} /**白色**/
+.tree .bf4j-icon-node-01,
+ul .disable .bf4j-icon-node-01
+{background:url(images/config-icons.png) no-repeat -0px -0px;} /**灰色**/
+
+.bf4j-icon-node-02,
+.floattree .bf4j-icon-node-02
+{background:url(images/config-icons.png) no-repeat -25px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-02,
+.tree .selectedNode .bf4j-icon-node-02,
+.tree .tree-node-hover .bf4j-icon-node-02
+{background:url(images/config-icons.png) no-repeat -25px -50px;} /**白色**/
+.tree .bf4j-icon-node-02,
+ul .disable .bf4j-icon-node-02
+{background:url(images/config-icons.png) no-repeat -25px -0px;}  /**灰色**/
+
+.bf4j-icon-node-03,
+.floattree .bf4j-icon-node-03 
+{background:url(images/config-icons.png) no-repeat -50px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-03,
+.tree .selectedNode .bf4j-icon-node-03,
+.tree .tree-node-hover .bf4j-icon-node-03
+{background:url(images/config-icons.png) no-repeat -50px -50px;} /**白色**/
+.tree .bf4j-icon-node-03,
+ul .disable .bf4j-icon-node-03
+{background:url(images/config-icons.png) no-repeat -50px -0px;}  /**灰色**/
+
+.bf4j-icon-node-04,
+.floattree .bf4j-icon-node-04
+{background:url(images/config-icons.png) no-repeat -75px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-04,
+.tree .selectedNode .bf4j-icon-node-04,
+.tree .tree-node-hover .bf4j-icon-node-04
+{background:url(images/config-icons.png) no-repeat -75px -50px;} /**白色**/
+.tree .bf4j-icon-node-04,
+ul .disable .bf4j-icon-node-04
+{background:url(images/config-icons.png) no-repeat -75px -0px;}  /**灰色**/
+
+.bf4j-icon-node-05,
+.floattree .bf4j-icon-node-05
+{background:url(images/config-icons.png) no-repeat -100px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-05,
+.tree .selectedNode .bf4j-icon-node-05,
+.tree .tree-node-hover .bf4j-icon-node-05
+{background:url(images/config-icons.png) no-repeat -100px -50px;} /**白色**/
+.tree .bf4j-icon-node-05,
+ul .disable .bf4j-icon-node-05
+{background:url(images/config-icons.png) no-repeat -100px -0px;}  /**灰色**/
+
+.bf4j-icon-node-06,
+.floattree .bf4j-icon-node-06
+{background:url(images/config-icons.png) no-repeat -125px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-06,
+.tree .selectedNode .bf4j-icon-node-06,
+.tree .tree-node-hover .bf4j-icon-node-06
+{background:url(images/config-icons.png) no-repeat -125px -50px;} /**白色**/
+.tree .bf4j-icon-node-06,
+ul .disable .bf4j-icon-node-06
+{background:url(images/config-icons.png) no-repeat -125px -0px;}  /**灰色**/
+
+.bf4j-icon-node-07,
+.floattree .bf4j-icon-node-07
+{background:url(images/config-icons.png) no-repeat -150px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-07,
+.tree .selectedNode .bf4j-icon-node-07,
+.tree .tree-node-hover .bf4j-icon-node-07
+{background:url(images/config-icons.png) no-repeat -150px -50px;} /**白色**/
+.tree .bf4j-icon-node-07,
+ul .disable .bf4j-icon-node-07
+{background:url(images/config-icons.png) no-repeat -150px -0px;}  /**灰色**/
+
+.bf4j-icon-node-08,
+.floattree .bf4j-icon-node-08 
+{background:url(images/config-icons.png) no-repeat -175px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-08,
+.tree .selectedNode .bf4j-icon-node-08,
+.tree .tree-node-hover .bf4j-icon-node-08
+{background:url(images/config-icons.png) no-repeat -175px -50px;} /**白色**/
+.tree .bf4j-icon-node-08,
+ul .disable .bf4j-icon-node-08
+{background:url(images/config-icons.png) no-repeat -175px -0px;}  /**灰色**/
+
+.bf4j-icon-node-09,
+.floattree .bf4j-icon-node-09
+{background:url(images/config-icons.png) no-repeat -200px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-09,
+.tree .selectedNode .bf4j-icon-node-09,
+.tree .tree-node-hover .bf4j-icon-node-09
+{background:url(images/config-icons.png) no-repeat -200px -50px;} /**白色**/
+.tree .bf4j-icon-node-09,
+ul .disable .bf4j-icon-node-09
+{background:url(images/config-icons.png) no-repeat -200px -0px;}  /**灰色**/
+
+.bf4j-icon-node-10,
+.floattree .bf4j-icon-node-10 
+{background:url(images/config-icons.png) no-repeat -225px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-10,
+.tree .selectedNode .bf4j-icon-node-10,
+.tree .tree-node-hover .bf4j-icon-node-10
+{background:url(images/config-icons.png) no-repeat -225px -50px;} /**白色**/
+.tree .bf4j-icon-node-10,
+ul .disable .bf4j-icon-node-10
+{background:url(images/config-icons.png) no-repeat -225px -0px;}  /**灰色**/
+
+.bf4j-icon-node-11,
+.floattree .bf4j-icon-node-11 
+{background:url(images/config-icons.png) no-repeat -250px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-11,
+.tree .selectedNode .bf4j-icon-node-11,
+.tree .tree-node-hover .bf4j-icon-node-11
+{background:url(images/config-icons.png) no-repeat -250px -50px;} /**白色**/
+.tree .bf4j-icon-node-11,
+ul .disable .bf4j-icon-node-11
+{background:url(images/config-icons.png) no-repeat -250px -0px;}  /**灰色**/
+
+.bf4j-icon-node-12,
+.floattree .bf4j-icon-node-12 
+{background:url(images/config-icons.png) no-repeat -275px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-12,
+.tree .selectedNode .bf4j-icon-node-12,
+.tree .tree-node-hover .bf4j-icon-node-12
+{background:url(images/config-icons.png) no-repeat -275px -50px;} /**白色**/
+.tree .bf4j-icon-node-12,
+ul .disable .bf4j-icon-node-12
+{background:url(images/config-icons.png) no-repeat -275px -0px;}  /**灰色**/
+
+.bf4j-icon-node-13,
+.floattree .bf4j-icon-node-13
+{background:url(images/config-icons.png) no-repeat -300px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-13,
+.tree .selectedNode .bf4j-icon-node-13,
+.tree .tree-node-hover .bf4j-icon-node-13
+{background:url(images/config-icons.png) no-repeat -300px -50px;} /**白色**/
+.tree .bf4j-icon-node-13,
+ul .disable .bf4j-icon-node-13
+{background:url(images/config-icons.png) no-repeat -300px -0px;}  /**灰色**/
+
+.bf4j-icon-node-14,
+.floattree .bf4j-icon-node-14 
+{background:url(images/config-icons.png) no-repeat -325px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-14,
+.tree .selectedNode .bf4j-icon-node-14,
+.tree .tree-node-hover .bf4j-icon-node-14
+{background:url(images/config-icons.png) no-repeat -325px -50px;} /**白色**/
+.tree .bf4j-icon-node-14,
+ul .disable .bf4j-icon-node-14
+{background:url(images/config-icons.png) no-repeat -325px -0px;}  /**灰色**/
+
+.bf4j-icon-node-15,
+.floattree .bf4j-icon-node-15 
+{background:url(images/config-icons.png) no-repeat -350px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-15,
+.tree .selectedNode .bf4j-icon-node-15,
+.tree .tree-node-hover .bf4j-icon-node-15
+{background:url(images/config-icons.png) no-repeat -350px -50px;} /**白色**/
+.tree .bf4j-icon-node-15,
+ul .disable .bf4j-icon-node-15
+{background:url(images/config-icons.png) no-repeat -350px -0px;}  /**灰色**/
+
+.bf4j-icon-node-16, 
+.floattree .bf4j-icon-node-16 
+{background:url(images/config-icons.png) no-repeat -375px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-16,
+.tree .selectedNode .bf4j-icon-node-16,
+.tree .tree-node-hover .bf4j-icon-node-16
+{background:url(images/config-icons.png) no-repeat -375px -50px;} /**白色**/
+.tree .bf4j-icon-node-16,
+ul .disable .bf4j-icon-node-16
+{background:url(images/config-icons.png) no-repeat -375px -0px;}  /**灰色**/
+
+.bf4j-icon-node-17,
+.floattree .bf4j-icon-node-17 
+{background:url(images/config-icons.png) no-repeat -400px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-17,
+.tree .selectedNode .bf4j-icon-node-17,
+.tree .tree-node-hover .bf4j-icon-node-17
+{background:url(images/config-icons.png) no-repeat -400px -50px;} /**白色**/
+.tree .bf4j-icon-node-17,
+ul .disable .bf4j-icon-node-17
+{background:url(images/config-icons.png) no-repeat -400px -0px;}  /**灰色**/
+
+.bf4j-icon-node-18,
+.floattree .bf4j-icon-node-18 
+{background:url(images/config-icons.png) no-repeat -425px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-18,
+.tree .selectedNode .bf4j-icon-node-18,
+.tree .tree-node-hover .bf4j-icon-node-18
+{background:url(images/config-icons.png) no-repeat -425px -50px;} /**白色**/
+.tree .bf4j-icon-node-18,
+ul .disable .bf4j-icon-node-18
+{background:url(images/config-icons.png) no-repeat -425px -0px;}  /**灰色**/
+
+.bf4j-icon-node-19,
+.floattree .bf4j-icon-node-19 
+{background:url(images/config-icons.png) no-repeat -450px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-19,
+.tree .selectedNode .bf4j-icon-node-19,
+.tree .tree-node-hover .bf4j-icon-node-19
+{background:url(images/config-icons.png) no-repeat -450px -50px;} /**白色**/
+.tree .bf4j-icon-node-19,
+ul .disable .bf4j-icon-node-19
+{background:url(images/config-icons.png) no-repeat -450px -0px;}  /**灰色**/
+
+.bf4j-icon-node-20,
+.floattree .bf4j-icon-node-20 
+{background:url(images/config-icons.png) no-repeat -475px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-20,
+.tree .selectedNode .bf4j-icon-node-20,
+.tree .tree-node-hover .bf4j-icon-node-20
+{background:url(images/config-icons.png) no-repeat -475px -50px;} /**白色**/
+.tree .bf4j-icon-node-20,
+ul .disable .bf4j-icon-node-20
+{background:url(images/config-icons.png) no-repeat -475px -0px;}  /**灰色**/
+
+.bf4j-icon-node-21,
+.floattree .bf4j-icon-node-21 
+{background:url(images/config-icons.png) no-repeat -500px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-21,
+.tree .selectedNode .bf4j-icon-node-21,
+.tree .tree-node-hover .bf4j-icon-node-21
+{background:url(images/config-icons.png) no-repeat -500px -50px;} /**白色**/
+.tree .bf4j-icon-node-21,
+ul .disable .bf4j-icon-node-21
+{background:url(images/config-icons.png) no-repeat -500px -0px;}  /**灰色**/
+
+.bf4j-icon-node-22,
+.floattree .bf4j-icon-node-22 
+{background:url(images/config-icons.png) no-repeat -525px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-22,
+.tree .selectedNode .bf4j-icon-node-22,
+.tree .tree-node-hover .bf4j-icon-node-22
+{background:url(images/config-icons.png) no-repeat -525px -50px;} /**白色**/
+.tree .bf4j-icon-node-22,
+ul .disable .bf4j-icon-node-22
+{background:url(images/config-icons.png) no-repeat -525px -0px;}  /**灰色**/
+
+.bf4j-icon-node-23,
+.floattree .bf4j-icon-node-23 
+{background:url(images/config-icons.png) no-repeat -550px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-23,
+.tree .selectedNode .bf4j-icon-node-23,
+.tree .tree-node-hover .bf4j-icon-node-23
+{background:url(images/config-icons.png) no-repeat -550px -50px;} /**白色**/
+.tree .bf4j-icon-node-23,
+ul .disable .bf4j-icon-node-23
+{background:url(images/config-icons.png) no-repeat -550px -0px;}  /**灰色**/
+
+.bf4j-icon-node-24,
+.floattree .bf4j-icon-node-24 
+{background:url(images/config-icons.png) no-repeat -575px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-24,
+.tree .selectedNode .bf4j-icon-node-24,
+.tree .tree-node-hover .bf4j-icon-node-24
+{background:url(images/config-icons.png) no-repeat -575px -50px;} /**白色**/
+.tree .bf4j-icon-node-24,
+ul .disable .bf4j-icon-node-24
+{background:url(images/config-icons.png) no-repeat -575px -0px;}  /**灰色**/
+
+.bf4j-icon-node-25,
+.floattree .bf4j-icon-node-25 
+{background:url(images/config-icons.png) no-repeat -600px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-25,
+.tree .selectedNode .bf4j-icon-node-25,
+.tree .tree-node-hover .bf4j-icon-node-25
+{background:url(images/config-icons.png) no-repeat -600px -50px;} /**白色**/
+.tree .bf4j-icon-node-25,
+ul .disable .bf4j-icon-node-25
+{background:url(images/config-icons.png) no-repeat -600px -0px;}  /**灰色**/
+
+.bf4j-icon-node-26,
+.floattree .bf4j-icon-node-26 
+{background:url(images/config-icons.png) no-repeat -625px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-26,
+.tree .selectedNode .bf4j-icon-node-26,
+.tree .tree-node-hover .bf4j-icon-node-26
+{background:url(images/config-icons.png) no-repeat -625px -50px;} /**白色**/
+.tree .bf4j-icon-node-26,
+ul .disable .bf4j-icon-node-26
+{background:url(images/config-icons.png) no-repeat -625px -0px;}  /**灰色**/
+
+.bf4j-icon-node-27,
+.floattree .bf4j-icon-node-27 
+{background:url(images/config-icons.png) no-repeat -650px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-27,
+.tree .selectedNode .bf4j-icon-node-27,
+.tree .tree-node-hover .bf4j-icon-node-27
+{background:url(images/config-icons.png) no-repeat -650px -50px;} /**白色**/
+.tree .bf4j-icon-node-27,
+ul .disable .bf4j-icon-node-27
+{background:url(images/config-icons.png) no-repeat -650px -0px;}  /**灰色**/
+
+.bf4j-icon-node-28,
+.floattree .bf4j-icon-node-28 
+{background:url(images/config-icons.png) no-repeat -675px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-28,
+.tree .selectedNode .bf4j-icon-node-28,
+.tree .tree-node-hover .bf4j-icon-node-28
+{background:url(images/config-icons.png) no-repeat -675px -50px;} /**白色**/
+.tree .bf4j-icon-node-28,
+ul .disable .bf4j-icon-node-28
+{background:url(images/config-icons.png) no-repeat -675px -0px;}  /**灰色**/
+
+.bf4j-icon-node-29,
+.floattree .bf4j-icon-node-29 
+{background:url(images/config-icons.png) no-repeat -700px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-29,
+.tree .selectedNode .bf4j-icon-node-29,
+.tree .tree-node-hover .bf4j-icon-node-29
+{background:url(images/config-icons.png) no-repeat -700px -50px;} /**白色**/
+.tree .bf4j-icon-node-29,
+ul .disable .bf4j-icon-node-29
+{background:url(images/config-icons.png) no-repeat -700px -0px;}  /**灰色**/
+
+.bf4j-icon-node-30,
+.floattree .bf4j-icon-node-30 
+{background:url(images/config-icons.png) no-repeat -725px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-30,
+.tree .selectedNode .bf4j-icon-node-30,
+.tree .tree-node-hover .bf4j-icon-node-30
+{background:url(images/config-icons.png) no-repeat -725px -50px;} /**白色**/
+.tree .bf4j-icon-node-30,
+ul .disable .bf4j-icon-node-30
+{background:url(images/config-icons.png) no-repeat -725px -0px;}  /**灰色**/
+
+.bf4j-icon-node-31,
+.floattree .bf4j-icon-node-31 
+{background:url(images/config-icons.png) no-repeat -750px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-31,
+.tree .selectedNode .bf4j-icon-node-31,
+.tree .tree-node-hover .bf4j-icon-node-31
+{background:url(images/config-icons.png) no-repeat -750px -50px;} /**白色**/
+.tree .bf4j-icon-node-31,
+ul .disable .bf4j-icon-node-31
+{background:url(images/config-icons.png) no-repeat -750px -0px;}  /**灰色**/
+
+.bf4j-icon-node-32,
+.floattree .bf4j-icon-node-32 
+{background:url(images/config-icons.png) no-repeat -775px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-32,
+.tree .selectedNode .bf4j-icon-node-32,
+.tree .tree-node-hover .bf4j-icon-node-32
+{background:url(images/config-icons.png) no-repeat -775px -50px;} /**白色**/
+.tree .bf4j-icon-node-32,
+ul .disable .bf4j-icon-node-32
+{background:url(images/config-icons.png) no-repeat -775px -0px;}  /**灰色**/
+
+.bf4j-icon-node-33,
+.floattree .bf4j-icon-node-33 
+{background:url(images/config-icons.png) no-repeat -800px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-33,
+.tree .selectedNode .bf4j-icon-node-33,
+.tree .tree-node-hover .bf4j-icon-node-33
+{background:url(images/config-icons.png) no-repeat -800px -50px;} /**白色**/
+.tree .bf4j-icon-node-33,
+ul .disable .bf4j-icon-node-33
+{background:url(images/config-icons.png) no-repeat -800px -0px;}  /**灰色**/
+
+.bf4j-icon-node-34,
+.floattree .bf4j-icon-node-34 
+{background:url(images/config-icons.png) no-repeat -825px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-34,
+.tree .selectedNode .bf4j-icon-node-34,
+.tree .tree-node-hover .bf4j-icon-node-34
+{background:url(images/config-icons.png) no-repeat -825px -50px;} /**白色**/
+.tree .bf4j-icon-node-34,
+ul .disable .bf4j-icon-node-34
+{background:url(images/config-icons.png) no-repeat -825px -0px;}  /**灰色**/
+
+.bf4j-icon-node-35,
+.floattree .bf4j-icon-node-35 
+{background:url(images/config-icons.png) no-repeat -850px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-35,
+.tree .selectedNode .bf4j-icon-node-35,
+.tree .tree-node-hover .bf4j-icon-node-35
+{background:url(images/config-icons.png) no-repeat -850px -50px;} /**白色**/
+.tree .bf4j-icon-node-35,
+ul .disable .bf4j-icon-node-35
+{background:url(images/config-icons.png) no-repeat -850px -0px;}  /**灰色**/
+
+.bf4j-icon-node-36,
+.floattree .bf4j-icon-node-36 
+{background:url(images/config-icons.png) no-repeat -875px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-36,
+.tree .selectedNode .bf4j-icon-node-36,
+.tree .tree-node-hover .bf4j-icon-node-36
+{background:url(images/config-icons.png) no-repeat -875px -50px;} /**白色**/
+.tree .bf4j-icon-node-36,
+ul .disable .bf4j-icon-node-36
+{background:url(images/config-icons.png) no-repeat -875px -0px;}  /**灰色**/
+
+.bf4j-icon-node-37,
+.floattree .bf4j-icon-node-37 
+{background:url(images/config-icons.png) no-repeat -900px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-37,
+.tree .selectedNode .bf4j-icon-node-37,
+.tree .tree-node-hover .bf4j-icon-node-37
+{background:url(images/config-icons.png) no-repeat -900px -50px;} /**白色**/
+.tree .bf4j-icon-node-37,
+ul .disable .bf4j-icon-node-37
+{background:url(images/config-icons.png) no-repeat -900px -0px;}  /**灰色**/
+
+.bf4j-icon-node-38,
+.floattree .bf4j-icon-node-38 
+{background:url(images/config-icons.png) no-repeat -925px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-38,
+.tree .selectedNode .bf4j-icon-node-38,
+.tree .tree-node-hover .bf4j-icon-node-38
+{background:url(images/config-icons.png) no-repeat -925px -50px;} /**白色**/
+.tree .bf4j-icon-node-38,
+ul .disable .bf4j-icon-node-38
+{background:url(images/config-icons.png) no-repeat -925px -0px;}  /**灰色**/
+
+.bf4j-icon-node-39,
+.floattree .bf4j-icon-node-39 
+{background:url(images/config-icons.png) no-repeat -950px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-39,
+.tree .selectedNode .bf4j-icon-node-39,
+.tree .tree-node-hover .bf4j-icon-node-39
+{background:url(images/config-icons.png) no-repeat -950px -50px;} /**白色**/
+.tree .bf4j-icon-node-39,
+ul .disable .bf4j-icon-node-39
+{background:url(images/config-icons.png) no-repeat -950px -0px;}  /**灰色**/
+
+.bf4j-icon-node-40,
+.floattree .bf4j-icon-node-40 
+{background:url(images/config-icons.png) no-repeat -975px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-40,
+.tree .selectedNode .bf4j-icon-node-40,
+.tree .tree-node-hover .bf4j-icon-node-40
+{background:url(images/config-icons.png) no-repeat -975px -50px;} /**白色**/
+.tree .bf4j-icon-node-40,
+ul .disable .bf4j-icon-node-40
+{background:url(images/config-icons.png) no-repeat -975px -0px;}  /**灰色**/
+
+.bf4j-icon-node-41,
+.floattree .bf4j-icon-node-41 
+{background:url(images/config-icons.png) no-repeat -1000px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-41,
+.tree .selectedNode .bf4j-icon-node-41,
+.tree .tree-node-hover .bf4j-icon-node-41
+{background:url(images/config-icons.png) no-repeat -1000px -50px;} /**白色**/
+.tree .bf4j-icon-node-41,
+ul .disable .bf4j-icon-node-41
+{background:url(images/config-icons.png) no-repeat -1000px -0px;}  /**灰色**/
+
+.bf4j-icon-node-42,
+.floattree .bf4j-icon-node-42 
+{background:url(images/config-icons.png) no-repeat -1025px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-42,
+.tree .selectedNode .bf4j-icon-node-42,
+.tree .tree-node-hover .bf4j-icon-node-42
+{background:url(images/config-icons.png) no-repeat -1025px -50px;} /**白色**/
+.tree .bf4j-icon-node-42,
+ul .disable .bf4j-icon-node-42
+{background:url(images/config-icons.png) no-repeat -1025px -0px;}  /**灰色**/
+
+.bf4j-icon-node-43,
+.floattree .bf4j-icon-node-43 
+{background:url(images/config-icons.png) no-repeat -1050px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-43,
+.tree .selectedNode .bf4j-icon-node-43,
+.tree .tree-node-hover .bf4j-icon-node-43
+{background:url(images/config-icons.png) no-repeat -1050px -50px;} /**白色**/
+.tree .bf4j-icon-node-43,
+ul .disable .bf4j-icon-node-43
+{background:url(images/config-icons.png) no-repeat -1050px -0px;}  /**灰色**/
+
+.bf4j-icon-node-44,
+.floattree .bf4j-icon-node-44 
+{background:url(images/config-icons.png) no-repeat -1075px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-44,
+.tree .selectedNode .bf4j-icon-node-44,
+.tree .tree-node-hover .bf4j-icon-node-44
+{background:url(images/config-icons.png) no-repeat -1075px -50px;} /**白色**/
+.tree .bf4j-icon-node-44,
+ul .disable .bf4j-icon-node-44
+{background:url(images/config-icons.png) no-repeat -1075px -0px;}  /**灰色**/
+
+.bf4j-icon-node-45,
+.floattree .bf4j-icon-node-45 
+{background:url(images/config-icons.png) no-repeat -1100px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-45,
+.tree .selectedNode .bf4j-icon-node-45,
+.tree .tree-node-hover .bf4j-icon-node-45
+{background:url(images/config-icons.png) no-repeat -1100px -50px;} /**白色**/
+.tree .bf4j-icon-node-45,
+ul .disable .bf4j-icon-node-45
+{background:url(images/config-icons.png) no-repeat -1100px -0px;}  /**灰色**/
+
+.bf4j-icon-node-46,
+.floattree .bf4j-icon-node-46 
+{background:url(images/config-icons.png) no-repeat -1125px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-46,
+.tree .selectedNode .bf4j-icon-node-46,
+.tree .tree-node-hover .bf4j-icon-node-46
+{background:url(images/config-icons.png) no-repeat -1125px -50px;} /**白色**/
+.tree .bf4j-icon-node-46,
+ul .disable .bf4j-icon-node-46
+{background:url(images/config-icons.png) no-repeat -1125px -0px;}  /**灰色**/
+
+.bf4j-icon-node-47,
+.floattree .bf4j-icon-node-47 
+{background:url(images/config-icons.png) no-repeat -1150px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-47,
+.tree .selectedNode .bf4j-icon-node-47,
+.tree .tree-node-hover .bf4j-icon-node-47
+{background:url(images/config-icons.png) no-repeat -1150px -50px;} /**白色**/
+.tree .bf4j-icon-node-47,
+ul .disable .bf4j-icon-node-47
+{background:url(images/config-icons.png) no-repeat -1150px -0px;}  /**灰色**/
+
+.bf4j-icon-node-48,
+.floattree .bf4j-icon-node-48 
+{background:url(images/config-icons.png) no-repeat -1175px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-48,
+.tree .selectedNode .bf4j-icon-node-48,
+.tree .tree-node-hover .bf4j-icon-node-48
+{background:url(images/config-icons.png) no-repeat -1175px -50px;} /**白色**/
+.tree .bf4j-icon-node-48,
+ul .disable .bf4j-icon-node-48
+{background:url(images/config-icons.png) no-repeat -1175px -0px;}  /**灰色**/
+
+.bf4j-icon-node-49,
+.floattree .bf4j-icon-node-49 
+{background:url(images/config-icons.png) no-repeat -1200px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-49,
+.tree .selectedNode .bf4j-icon-node-49,
+.tree .tree-node-hover .bf4j-icon-node-49
+{background:url(images/config-icons.png) no-repeat -1200px -50px;} /**白色**/
+.tree .bf4j-icon-node-49,
+ul .disable .bf4j-icon-node-49
+{background:url(images/config-icons.png) no-repeat -1200px -0px;}  /**灰色**/
+
+.bf4j-icon-node-50,
+.floattree .bf4j-icon-node-50 
+{background:url(images/config-icons.png) no-repeat -1225px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-50,
+.tree .selectedNode .bf4j-icon-node-50,
+.tree .tree-node-hover .bf4j-icon-node-50
+{background:url(images/config-icons.png) no-repeat -1225px -50px;} /**白色**/
+.tree .bf4j-icon-node-50,
+ul .disable .bf4j-icon-node-50
+{background:url(images/config-icons.png) no-repeat -1225px -0px;}  /**灰色**/
+
+.bf4j-icon-node-51,
+.floattree .bf4j-icon-node-51 
+{background:url(images/config-icons.png) no-repeat -1250px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-51,
+.tree .selectedNode .bf4j-icon-node-51,
+.tree .tree-node-hover .bf4j-icon-node-51
+{background:url(images/config-icons.png) no-repeat -1250px -50px;} /**白色**/
+.tree .bf4j-icon-node-51,
+ul .disable .bf4j-icon-node-51
+{background:url(images/config-icons.png) no-repeat -1250px -0px;}  /**灰色**/
+
+.bf4j-icon-node-52,
+.floattree .bf4j-icon-node-52 
+{background:url(images/config-icons.png) no-repeat -1275px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-52,
+.tree .selectedNode .bf4j-icon-node-52,
+.tree .tree-node-hover .bf4j-icon-node-52
+{background:url(images/config-icons.png) no-repeat -1275px -50px;} /**白色**/
+.tree .bf4j-icon-node-52,
+ul .disable .bf4j-icon-node-52
+{background:url(images/config-icons.png) no-repeat -1275px -0px;}  /**灰色**/
+
+.bf4j-icon-node-53,
+.floattree .bf4j-icon-node-53 
+{background:url(images/config-icons.png) no-repeat -1300px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-53,
+.tree .selectedNode .bf4j-icon-node-53,
+.tree .tree-node-hover .bf4j-icon-node-53
+{background:url(images/config-icons.png) no-repeat -1300px -50px;} /**白色**/
+.tree .bf4j-icon-node-53,
+ul .disable .bf4j-icon-node-53
+{background:url(images/config-icons.png) no-repeat -1300px -0px;}  /**灰色**/
+
+.bf4j-icon-node-54,
+.floattree .bf4j-icon-node-54 
+{background:url(images/config-icons.png) no-repeat -1325px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-54,
+.tree .selectedNode .bf4j-icon-node-54,
+.tree .tree-node-hover .bf4j-icon-node-54
+{background:url(images/config-icons.png) no-repeat -1325px -50px;} /**白色**/
+.tree .bf4j-icon-node-54,
+ul .disable .bf4j-icon-node-54
+{background:url(images/config-icons.png) no-repeat -1325px -0px;}  /**灰色**/
+
+.bf4j-icon-node-55,
+.floattree .bf4j-icon-node-55 
+{background:url(images/config-icons.png) no-repeat -1350px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-55,
+.tree .selectedNode .bf4j-icon-node-55,
+.tree .tree-node-hover .bf4j-icon-node-55
+{background:url(images/config-icons.png) no-repeat -1350px -50px;} /**白色**/
+.tree .bf4j-icon-node-55,
+ul .disable .bf4j-icon-node-55
+{background:url(images/config-icons.png) no-repeat -1350px -0px;}  /**灰色**/
+
+.bf4j-icon-node-56,
+.floattree .bf4j-icon-node-56 
+{background:url(images/config-icons.png) no-repeat -1375px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-56,
+.tree .selectedNode .bf4j-icon-node-56,
+.tree .tree-node-hover .bf4j-icon-node-56
+{background:url(images/config-icons.png) no-repeat -1375px -50px;} /**白色**/
+.tree .bf4j-icon-node-56,
+ul .disable .bf4j-icon-node-56
+{background:url(images/config-icons.png) no-repeat -1375px -0px;}  /**灰色**/
+
+.bf4j-icon-node-57,
+.floattree .bf4j-icon-node-57 
+{background:url(images/config-icons.png) no-repeat -1400px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-57,
+.tree .selectedNode .bf4j-icon-node-57,
+.tree .tree-node-hover .bf4j-icon-node-57
+{background:url(images/config-icons.png) no-repeat -1400px -50px;} /**白色**/
+.tree .bf4j-icon-node-57,
+ul .disable .bf4j-icon-node-57
+{background:url(images/config-icons.png) no-repeat -1400px -0px;}  /**灰色**/
+
+.bf4j-icon-node-58,
+.floattree .bf4j-icon-node-58 
+{background:url(images/config-icons.png) no-repeat -1425px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-58,
+.tree .selectedNode .bf4j-icon-node-58,
+.tree .tree-node-hover .bf4j-icon-node-58
+{background:url(images/config-icons.png) no-repeat -1425px -50px;} /**白色**/
+.tree .bf4j-icon-node-58,
+ul .disable .bf4j-icon-node-58
+{background:url(images/config-icons.png) no-repeat -1425px -0px;}  /**灰色**/
+
+.bf4j-icon-node-59,
+.floattree .bf4j-icon-node-59 
+{background:url(images/config-icons.png) no-repeat -1450px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-59,
+.tree .selectedNode .bf4j-icon-node-59,
+.tree .tree-node-hover .bf4j-icon-node-59
+{background:url(images/config-icons.png) no-repeat -1450px -50px;} /**白色**/
+.tree .bf4j-icon-node-59,
+ul .disable .bf4j-icon-node-59
+{background:url(images/config-icons.png) no-repeat -1450px -0px;}  /**灰色**/
+
+.bf4j-icon-node-60,
+.floattree .bf4j-icon-node-60 
+{background:url(images/config-icons.png) no-repeat -1475px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-60,
+.tree .selectedNode .bf4j-icon-node-60,
+.tree .tree-node-hover .bf4j-icon-node-60
+{background:url(images/config-icons.png) no-repeat -1475px -50px;} /**白色**/
+.tree .bf4j-icon-node-60,
+ul .disable .bf4j-icon-node-60
+{background:url(images/config-icons.png) no-repeat -1475px -0px;}  /**灰色**/
+
+.bf4j-icon-node-61,
+.floattree .bf4j-icon-node-61 
+{background:url(images/config-icons.png) no-repeat -1500px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-61,
+.tree .selectedNode .bf4j-icon-node-61,
+.tree .tree-node-hover .bf4j-icon-node-61
+{background:url(images/config-icons.png) no-repeat -1500px -50px;} /**白色**/
+.tree .bf4j-icon-node-61,
+ul .disable .bf4j-icon-node-61
+{background:url(images/config-icons.png) no-repeat -1500px -0px;}  /**灰色**/
+
+.bf4j-icon-node-62,
+.floattree .bf4j-icon-node-62 
+{background:url(images/config-icons.png) no-repeat -1525px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-62,
+.tree .selectedNode .bf4j-icon-node-62,
+.tree .tree-node-hover .bf4j-icon-node-62
+{background:url(images/config-icons.png) no-repeat -1525px -50px;} /**白色**/
+.tree .bf4j-icon-node-62,
+ul .disable .bf4j-icon-node-62
+{background:url(images/config-icons.png) no-repeat -1525px -0px;}  /**灰色**/
+
+.bf4j-icon-node-63,
+.floattree .bf4j-icon-node-63 
+{background:url(images/config-icons.png) no-repeat -1550px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-63,
+.tree .selectedNode .bf4j-icon-node-63,
+.tree .tree-node-hover .bf4j-icon-node-63
+{background:url(images/config-icons.png) no-repeat -1550px -50px;} /**白色**/
+.tree .bf4j-icon-node-63,
+ul .disable .bf4j-icon-node-63
+{background:url(images/config-icons.png) no-repeat -1550px -0px;}  /**灰色**/
+
+.bf4j-icon-node-64,
+.floattree .bf4j-icon-node-64 
+{background:url(images/config-icons.png) no-repeat -1575px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-64,
+.tree .selectedNode .bf4j-icon-node-64,
+.tree .tree-node-hover .bf4j-icon-node-64
+{background:url(images/config-icons.png) no-repeat -1575px -50px;} /**白色**/
+.tree .bf4j-icon-node-64,
+ul .disable .bf4j-icon-node-64
+{background:url(images/config-icons.png) no-repeat -1575px -0px;}  /**灰色**/
+
+.bf4j-icon-node-65,
+.floattree .bf4j-icon-node-65 
+{background:url(images/config-icons.png) no-repeat -1600px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-65,
+.tree .selectedNode .bf4j-icon-node-65,
+.tree .tree-node-hover .bf4j-icon-node-65
+{background:url(images/config-icons.png) no-repeat -1600px -50px;} /**白色**/
+.tree .bf4j-icon-node-65,
+ul .disable .bf4j-icon-node-65
+{background:url(images/config-icons.png) no-repeat -1600px -0px;}  /**灰色**/
+
+.bf4j-icon-node-66,
+.floattree .bf4j-icon-node-66 
+{background:url(images/config-icons.png) no-repeat -1625px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-66,
+.tree .selectedNode .bf4j-icon-node-66,
+.tree .tree-node-hover .bf4j-icon-node-66
+{background:url(images/config-icons.png) no-repeat -1625px -50px;} /**白色**/
+.tree .bf4j-icon-node-66,
+ul .disable .bf4j-icon-node-66
+{background:url(images/config-icons.png) no-repeat -1625px -0px;}  /**灰色**/
+
+.bf4j-icon-node-67,
+.floattree .bf4j-icon-node-67 
+{background:url(images/config-icons.png) no-repeat -1650px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-67,
+.tree .selectedNode .bf4j-icon-node-67,
+.tree .tree-node-hover .bf4j-icon-node-67
+{background:url(images/config-icons.png) no-repeat -1650px -50px;} /**白色**/
+.tree .bf4j-icon-node-67,
+ul .disable .bf4j-icon-node-67
+{background:url(images/config-icons.png) no-repeat -1650px -0px;}  /**灰色**/
+
+.bf4j-icon-node-68,
+.floattree .bf4j-icon-node-68 
+{background:url(images/config-icons.png) no-repeat -1675px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-68,
+.tree .selectedNode .bf4j-icon-node-68,
+.tree .tree-node-hover .bf4j-icon-node-68
+{background:url(images/config-icons.png) no-repeat -1675px -50px;} /**白色**/
+.tree .bf4j-icon-node-68,
+ul .disable .bf4j-icon-node-68
+{background:url(images/config-icons.png) no-repeat -1675px -0px;}  /**灰色**/
+
+.bf4j-icon-node-69,
+.floattree .bf4j-icon-node-69 
+{background:url(images/config-icons.png) no-repeat -1700px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-69,
+.tree .selectedNode .bf4j-icon-node-69,
+.tree .tree-node-hover .bf4j-icon-node-69
+{background:url(images/config-icons.png) no-repeat -1700px -50px;} /**白色**/
+.tree .bf4j-icon-node-69,
+ul .disable .bf4j-icon-node-69
+{background:url(images/config-icons.png) no-repeat -1700px -0px;}  /**灰色**/
+
+.bf4j-icon-node-70,
+.floattree .bf4j-icon-node-70 
+{background:url(images/config-icons.png) no-repeat -1725px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-70,
+.tree .selectedNode .bf4j-icon-node-70,
+.tree .tree-node-hover .bf4j-icon-node-70
+{background:url(images/config-icons.png) no-repeat -1725px -50px;} /**白色**/
+.tree .bf4j-icon-node-70,
+ul .disable .bf4j-icon-node-70
+{background:url(images/config-icons.png) no-repeat -1725px -0px;}  /**灰色**/
+
+.bf4j-icon-node-71,
+.floattree .bf4j-icon-node-71 
+{background:url(images/config-icons.png) no-repeat -1750px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-71,
+.tree .selectedNode .bf4j-icon-node-71,
+.tree .tree-node-hover .bf4j-icon-node-71
+{background:url(images/config-icons.png) no-repeat -1750px -50px;} /**白色**/
+.tree .bf4j-icon-node-71,
+ul .disable .bf4j-icon-node-71
+{background:url(images/config-icons.png) no-repeat -1750px -0px;}  /**灰色**/
+
+.bf4j-icon-node-72,
+.floattree .bf4j-icon-node-72 
+{background:url(images/config-icons.png) no-repeat -1775px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-72,
+.tree .selectedNode .bf4j-icon-node-72,
+.tree .tree-node-hover .bf4j-icon-node-72
+{background:url(images/config-icons.png) no-repeat -1775px -50px;} /**白色**/
+.tree .bf4j-icon-node-72,
+ul .disable .bf4j-icon-node-72
+{background:url(images/config-icons.png) no-repeat -1775px -0px;}  /**灰色**/
+
+.bf4j-icon-node-73,
+.floattree .bf4j-icon-node-73 
+{background:url(images/config-icons.png) no-repeat -1800px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-73,
+.tree .selectedNode .bf4j-icon-node-73,
+.tree .tree-node-hover .bf4j-icon-node-73
+{background:url(images/config-icons.png) no-repeat -1800px -50px;} /**白色**/
+.tree .bf4j-icon-node-73,
+ul .disable .bf4j-icon-node-73
+{background:url(images/config-icons.png) no-repeat -1800px -0px;}  /**灰色**/
+
+.bf4j-icon-node-74,
+.floattree .bf4j-icon-node-74 
+{background:url(images/config-icons.png) no-repeat -1825px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-74,
+.tree .selectedNode .bf4j-icon-node-74,
+.tree .tree-node-hover .bf4j-icon-node-74
+{background:url(images/config-icons.png) no-repeat -1825px -50px;} /**白色**/
+.tree .bf4j-icon-node-74,
+ul .disable .bf4j-icon-node-74
+{background:url(images/config-icons.png) no-repeat -1825px -0px;}  /**灰色**/
+
+.bf4j-icon-node-75,
+.floattree .bf4j-icon-node-75 
+{background:url(images/config-icons.png) no-repeat -1850px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-75,
+.tree .selectedNode .bf4j-icon-node-75,
+.tree .tree-node-hover .bf4j-icon-node-75
+{background:url(images/config-icons.png) no-repeat -1850px -50px;} /**白色**/
+.tree .bf4j-icon-node-75,
+ul .disable .bf4j-icon-node-75
+{background:url(images/config-icons.png) no-repeat -1850px -0px;}  /**灰色**/
+
+.bf4j-icon-node-76,
+.floattree .bf4j-icon-node-76 
+{background:url(images/config-icons.png) no-repeat -1875px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-76,
+.tree .selectedNode .bf4j-icon-node-76,
+.tree .tree-node-hover .bf4j-icon-node-76
+{background:url(images/config-icons.png) no-repeat -1875px -50px;} /**白色**/
+.tree .bf4j-icon-node-76,
+ul .disable .bf4j-icon-node-76
+{background:url(images/config-icons.png) no-repeat -1875px -0px;}  /**灰色**/
+
+.bf4j-icon-node-77,
+.floattree .bf4j-icon-node-77 
+{background:url(images/config-icons.png) no-repeat -1900px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-77,
+.tree .selectedNode .bf4j-icon-node-77,
+.tree .tree-node-hover .bf4j-icon-node-77
+{background:url(images/config-icons.png) no-repeat -1900px -50px;} /**白色**/
+.tree .bf4j-icon-node-77,
+ul .disable .bf4j-icon-node-77
+{background:url(images/config-icons.png) no-repeat -1900px -0px;}  /**灰色**/
+
+.bf4j-icon-node-78,
+.floattree .bf4j-icon-node-78 
+{background:url(images/config-icons.png) no-repeat -1925px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-78,
+.tree .selectedNode .bf4j-icon-node-78,
+.tree .tree-node-hover .bf4j-icon-node-78
+{background:url(images/config-icons.png) no-repeat -1925px -50px;} /**白色**/
+.tree .bf4j-icon-node-78,
+ul .disable .bf4j-icon-node-78
+{background:url(images/config-icons.png) no-repeat -1925px -0px;}  /**灰色**/
+
+.bf4j-icon-node-79,
+.floattree .bf4j-icon-node-79 
+{background:url(images/config-icons.png) no-repeat -1950px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-79,
+.tree .selectedNode .bf4j-icon-node-79,
+.tree .tree-node-hover .bf4j-icon-node-79
+{background:url(images/config-icons.png) no-repeat -1950px -50px;} /**白色**/
+.tree .bf4j-icon-node-79,
+ul .disable .bf4j-icon-node-79
+{background:url(images/config-icons.png) no-repeat -1950px -0px;}  /**灰色**/
+
+.bf4j-icon-node-80,
+.floattree .bf4j-icon-node-80 
+{background:url(images/config-icons.png) no-repeat -1975px -25px;} /**红色**/
+.floattree .tree-node-hover .bf4j-icon-node-80,
+.tree .selectedNode .bf4j-icon-node-80,
+.tree .tree-node-hover .bf4j-icon-node-80
+{background:url(images/config-icons.png) no-repeat -1975px -50px;} /**白色**/
+.tree .bf4j-icon-node-80,
+ul .disable .bf4j-icon-node-80
+{background:url(images/config-icons.png) no-repeat -1975px -0px;}  /**灰色**/
+
+
+/***point快捷菜单中型图标系列***/
+.bf4j-icon-mid-01 {
+    background:url(images/config-icons.png) no-repeat 0px -345px;
+}
+.bf4j-icon-mid-02 {
+    background:url(images/config-icons.png) no-repeat -42px -345px;
+}
+.bf4j-icon-mid-03 {
+    background:url(images/config-icons.png) no-repeat -84px -345px;
+}
+.bf4j-icon-mid-04 {
+    background:url(images/config-icons.png) no-repeat -126px -345px;
+}
+.bf4j-icon-mid-05 {
+    background:url(images/config-icons.png) no-repeat -168px -345px;
+}
+.bf4j-icon-mid-06 {
+    background:url(images/config-icons.png) no-repeat -210px -345px;
+}
+.bf4j-icon-mid-07 {
+    background:url(images/config-icons.png) no-repeat -252px -345px;
+}
+.bf4j-icon-mid-08 {
+    background:url(images/config-icons.png) no-repeat -294px -345px;
+}
+.bf4j-icon-mid-09 {
+    background:url(images/config-icons.png) no-repeat -336px -345px;
+}
+.bf4j-icon-mid-10 {
+    background:url(images/config-icons.png) no-repeat -378px -345px;
+}
+.bf4j-icon-mid-11 {
+    background:url(images/config-icons.png) no-repeat -420px -345px;
+}
+.bf4j-icon-mid-12 {
+    background:url(images/config-icons.png) no-repeat -462px -345px;
+}
+.bf4j-icon-mid-13 {
+    background:url(images/config-icons.png) no-repeat -504px -345px;
+}
+.bf4j-icon-mid-14 {
+    background:url(images/config-icons.png) no-repeat -546px -345px;
+}
+.bf4j-icon-mid-15 {
+    background:url(images/config-icons.png) no-repeat -588px -345px;
+}
+.bf4j-icon-mid-16 {
+    background:url(images/config-icons.png) no-repeat -630px -345px;
+}
+.bf4j-icon-mid-17 {
+    background:url(images/config-icons.png) no-repeat -672px -345px;
+}
+.bf4j-icon-mid-18 {
+    background:url(images/config-icons.png) no-repeat -714px -345px;
+}
+.bf4j-icon-mid-19 {
+    background:url(images/config-icons.png) no-repeat -756px -345px;
+}
+.bf4j-icon-mid-20 {
+    background:url(images/config-icons.png) no-repeat -798px -345px;
+}
+.bf4j-icon-mid-21 {
+    background:url(images/config-icons.png) no-repeat -840px -345px;
+}
+.bf4j-icon-mid-22 {
+    background:url(images/config-icons.png) no-repeat -882px -345px;
+}
+.bf4j-icon-mid-23 {
+    background:url(images/config-icons.png) no-repeat -924px -345px;
+}
+.bf4j-icon-mid-24 {
+    background:url(images/config-icons.png) no-repeat -966px -345px;
+}
+.bf4j-icon-mid-25 {
+    background:url(images/config-icons.png) no-repeat -1008px -345px;
+}
+.bf4j-icon-mid-26 {
+    background:url(images/config-icons.png) no-repeat -1050px -345px;
+}
+.bf4j-icon-mid-27 {
+    background:url(images/config-icons.png) no-repeat -1092px -345px;
+}
+.bf4j-icon-mid-28 {
+    background:url(images/config-icons.png) no-repeat -1134px -345px;
+}
+.bf4j-icon-mid-29 {
+    background:url(images/config-icons.png) no-repeat -1176px -345px;
+}
+.bf4j-icon-mid-30 {
+    background:url(images/config-icons.png) no-repeat -1218px -345px;
+}
+
+/***首页快捷菜单大型图标系列***/
+.bf4j-icon-big-01 {
+    background:url(images/config-icons.png) no-repeat 0px -92px;
+}
+.bf4j-icon-big-01:hover {
+    background:url(images/config-icons.png) no-repeat 0px -170px;
+}
+.bf4j-icon-big-02 {
+    background:url(images/config-icons.png) no-repeat -78px -92px;
+}
+.bf4j-icon-big-02:hover {
+    background:url(images/config-icons.png) no-repeat -78px -170px;
+}
+.bf4j-icon-big-03 {
+    background:url(images/config-icons.png) no-repeat -156px -92px;
+}
+.bf4j-icon-big-03:hover {
+    background:url(images/config-icons.png) no-repeat -156px -170px;
+}
+.bf4j-icon-big-04 {
+    background:url(images/config-icons.png) no-repeat -234px -92px;
+}
+.bf4j-icon-big-04:hover {
+    background:url(images/config-icons.png) no-repeat -234px -170px;
+}
+.bf4j-icon-big-05 {
+    background:url(images/config-icons.png) no-repeat -312px -92px;
+}
+.bf4j-icon-big-05:hover {
+    background:url(images/config-icons.png) no-repeat -312px -170px;
+}
+.bf4j-icon-big-06 {
+    background:url(images/config-icons.png) no-repeat -390px -92px;
+}
+.bf4j-icon-big-06:hover {
+    background:url(images/config-icons.png) no-repeat -390px -170px;
+}
+.bf4j-icon-big-07 {
+    background:url(images/config-icons.png) no-repeat -468px -92px;
+}
+.bf4j-icon-big-07:hover {
+    background:url(images/config-icons.png) no-repeat -468px -170px;
+}
+.bf4j-icon-big-08 {
+    background:url(images/config-icons.png) no-repeat -546px -92px;
+}
+.bf4j-icon-big-08:hover {
+    background:url(images/config-icons.png) no-repeat -546px -170px;
+}
+.bf4j-icon-big-09 {
+    background:url(images/config-icons.png) no-repeat -624px -92px;
+}
+.bf4j-icon-big-09:hover {
+    background:url(images/config-icons.png) no-repeat -624px -170px;
+}
+.bf4j-icon-big-10 {
+    background:url(images/config-icons.png) no-repeat -702px -92px;
+}
+.bf4j-icon-big-10:hover {
+    background:url(images/config-icons.png) no-repeat -702px -170px;
+}
+.bf4j-icon-big-11 {
+    background:url(images/config-icons.png) no-repeat -780px -92px;
+}
+.bf4j-icon-big-11:hover {
+    background:url(images/config-icons.png) no-repeat -780px -170px;
+}
+.bf4j-icon-big-12 {
+    background:url(images/config-icons.png) no-repeat -858px -92px;
+}
+.bf4j-icon-big-12:hover {
+    background:url(images/config-icons.png) no-repeat -858px -170px;
+}
+.bf4j-icon-big-13 {
+    background:url(images/config-icons.png) no-repeat -936px -92px;
+}
+.bf4j-icon-big-13:hover {
+    background:url(images/config-icons.png) no-repeat -936px -170px;
+}
+.bf4j-icon-big-14 {
+    background:url(images/config-icons.png) no-repeat -1014px -92px;
+}
+.bf4j-icon-big-14:hover {
+    background:url(images/config-icons.png) no-repeat -1014px -170px;
+}
+.bf4j-icon-big-15 {
+    background:url(images/config-icons.png) no-repeat -1092px -92px;
+}
+.bf4j-icon-big-15:hover {
+    background:url(images/config-icons.png) no-repeat -1092px -170px;
+}
+.bf4j-icon-big-16 {
+    background:url(images/config-icons.png) no-repeat -1170px -92px;
+}
+.bf4j-icon-big-16:hover {
+    background:url(images/config-icons.png) no-repeat -1170px -170px;
+}
+.bf4j-icon-big-17 {
+    background:url(images/config-icons.png) no-repeat -1248px -92px;
+}
+.bf4j-icon-big-17:hover {
+    background:url(images/config-icons.png) no-repeat -1248px -170px;
+}
+.bf4j-icon-big-18 {
+    background:url(images/config-icons.png) no-repeat -1326px -92px;
+}
+.bf4j-icon-big-18:hover {
+    background:url(images/config-icons.png) no-repeat -1326px -170px;
+}
+.bf4j-icon-big-19 {
+    background:url(images/config-icons.png) no-repeat -1404px -92px;
+}
+.bf4j-icon-big-19:hover {
+    background:url(images/config-icons.png) no-repeat -1404px -170px;
+}
+.bf4j-icon-big-20 {
+    background:url(images/config-icons.png) no-repeat -1482px -92px;
+}
+.bf4j-icon-big-20:hover {
+    background:url(images/config-icons.png) no-repeat -1482px -170px;
+}
+.bf4j-icon-big-21 {
+    background:url(images/config-icons.png) no-repeat -1560px -92px;
+}
+.bf4j-icon-big-21:hover {
+    background:url(images/config-icons.png) no-repeat -1560px -170px;
+}
+.bf4j-icon-big-22 {
+    background:url(images/config-icons.png) no-repeat -1638px -92px;
+}
+.bf4j-icon-big-22:hover {
+    background:url(images/config-icons.png) no-repeat -1638px -170px;
+}
+.bf4j-icon-big-23 {
+    background:url(images/config-icons.png) no-repeat -1716px -92px;
+}
+.bf4j-icon-big-23:hover {
+    background:url(images/config-icons.png) no-repeat -1716px -170px;
+}
+.bf4j-icon-big-24 {
+    background:url(images/config-icons.png) no-repeat -1794px -92px;
+}
+.bf4j-icon-big-24:hover {
+    background:url(images/config-icons.png) no-repeat -1794px -170px;
+}
+.bf4j-icon-big-25 {
+    background:url(images/config-icons.png) no-repeat -1872px -92px;
+}
+.bf4j-icon-big-25:hover {
+    background:url(images/config-icons.png) no-repeat -1872px -170px;
+}
+.bf4j-icon-big-26 {
+    background:url(images/config-icons.png) no-repeat -1950px -92px;
+}
+.bf4j-icon-big-26:hover {
+    background:url(images/config-icons.png) no-repeat -1950px -170px;
+}
+.bf4j-icon-big-27 {
+    background:url(images/config-icons.png) no-repeat -2028px -92px;
+}
+.bf4j-icon-big-27:hover {
+    background:url(images/config-icons.png) no-repeat -2028px -170px;
+}
+.bf4j-icon-big-28 {
+    background:url(images/config-icons.png) no-repeat -2106px -92px;
+}
+.bf4j-icon-big-28:hover {
+    background:url(images/config-icons.png) no-repeat -2106px -170px;
+}
+.bf4j-icon-big-29 {
+    background:url(images/config-icons.png) no-repeat -2184px -92px;
+}
+.bf4j-icon-big-29:hover {
+    background:url(images/config-icons.png) no-repeat -2184px -170px;
+}
+.bf4j-icon-big-30 {
+    background:url(images/config-icons.png) no-repeat -2262px -92px;
+}
+.bf4j-icon-big-30:hover {
+    background:url(images/config-icons.png) no-repeat -2262px -170px;
+}
+
+/***按钮图标系列***/
+/**查询**/
+.bf4j-icon-btn-search{
+    background:url(images/config-icons.png) no-repeat -1225px -50px;
+}
+/**添加**/
+.bf4j-icon-btn-add{
+    background:url(images/config-icons.png) no-repeat -1150px -50px;
+}
+/**刷新**/
+.bf4j-icon-btn-refresh{
+    background:url(images/config-icons.png) no-repeat -1200px -50px;
+}
+/**删除**/
+.bf4j-icon-btn-delete{
+    background:url(images/config-icons.png) no-repeat -1300px -50px;
+}
+/**编辑**/
+.bf4j-icon-btn-edit{
+   background:url(images/config-icons.png) no-repeat -1275px -50px;
+}
+/**保存**/
+.bf4j-icon-btn-save{
+   background:url(images/config-icons.png) no-repeat -600px -50px;
+}
+/**查看**/
+.bf4j-icon-btn-look{
+   background:url(images/config-icons.png) no-repeat -800px -50px;
+}
+/**收藏**/
+.bf4j-icon-btn-collect{
+   background:url(images/config-icons.png) no-repeat -975px -50px;
+}
+/**文件**/
+.bf4j-icon-btn-file{
+   background:url(images/config-icons.png) no-repeat -700px -50px;
+}
+/**日期**/
+.bf4j-icon-btn-date{
+   background:url(images/config-icons.png) no-repeat -1125px -50px;
+}
+/**重置**/
+.bf4j-icon-btn-reset{
+   background:url(images/config-icons.png) no-repeat -1250px -50px;
+}
+/**启动**/
+.bf4j-icon-btn-start{
+   background:url(images/config-icons.png) no-repeat -1675px -50px;
+}
+/**停止**/
+.bf4j-icon-btn-stop{
+   background:url(images/config-icons.png) no-repeat -1700px -50px;
+}
+/**下线**/
+.bf4j-icon-btn-offline{
+   background:url(images/config-icons.png) no-repeat -1625px -50px;
+}
+/**下载**/
+.bf4j-icon-btn-download{
+   background:url(images/config-icons.png) no-repeat -1725px -50px;
+}
+/**解锁**/
+.bf4j-icon-btn-delock{
+   background:url(images/config-icons.png) no-repeat -1550px -50px;
+}
+/**锁定**/
+.bf4j-icon-btn-lock{
+   background:url(images/config-icons.png) no-repeat -1575px -50px;
+}
+
+/***右键菜单图标系列***/
+/**查询**/
+.bf4j-icon-right-search{
+    background:url(images/config-icons.png) no-repeat -208px -487px;
+}
+/**添加**/
+.bf4j-icon-right-add{
+	background:url(images/config-icons.png) no-repeat -1150px -25px
+}
+/**刷新**/
+.bf4j-icon-right-refresh{
+    background:url(images/config-icons.png) no-repeat -286px -487px;
+}
+/**重置**/
+.bf4j-icon-right-reset{
+    background:url(images/config-icons.png) no-repeat -104px -487px;
+}
+/**删除**/
+.bf4j-icon-right-delete{
+	 background:url(images/config-icons.png) no-repeat -26px -487px;
+}
+/**删除所有**/
+.bf4j-icon-right-deleteAll{
+    background:url(images/config-icons.png) no-repeat -180px -487px;
+}
+/**关闭**/
+.bf4j-icon-right-close{
+	background:url(images/config-icons.png) no-repeat -260px -487px;
+}
+/**关闭所有**/
+.bf4j-icon-right-closeAll{
+   background:url(images/config-icons.png) no-repeat -1800px -25px;
+}
+/**附件**/
+.bf4j-icon-right-attache{
+    background:url(images/config-icons.png) no-repeat -156px -487px;
+}
+/**编辑**/
+.bf4j-icon-right-edit{
+   background:url(images/config-icons.png) no-repeat -234px -487px;
+}
+/**历史记录**/
+.bf4j-icon-right-history{
+   background:url(images/config-icons.png) no-repeat -78px -487px;
+}
+/**保存**/
+.bf4j-icon-right-save{
+ 	background:url(images/config-icons.png) no-repeat -312px -487px;
+}
+/**查看**/
+.bf4j-icon-right-look
+{
+	background:url(images/config-icons.png) no-repeat -494px -487px;
+}
+/**启动**/
+.bf4j-icon-right-start{
+   background:url(images/config-icons.png) no-repeat -338px -487px;
+}
+/**停止**/
+.bf4j-icon-right-stop{
+   background:url(images/config-icons.png) no-repeat -364px -487px;
+}
+/**下线**/
+.bf4j-icon-right-offline{
+   background:url(images/config-icons.png) no-repeat -390px -487px;
+}
+/**下载**/
+.bf4j-icon-right-download{
+   background:url(images/config-icons.png) no-repeat -468px -487px;
+}
+/**解锁**/
+.bf4j-icon-right-delock{
+   background:url(images/config-icons.png) no-repeat -442px -487px;
+}
+/**锁定**/
+.bf4j-icon-right-lock{
+   background:url(images/config-icons.png) no-repeat -416px -487px;
+}
+
+/***行级工具栏按钮图标系列 灰色 y -648px***/
+/**查询**/
+.bf4j-icon-row-search{
+	background:url(images/config-icons.png) no-repeat -36px -684px;
+}
+.bf4j-icon-row-search:hover{
+	background:url(images/config-icons.png) no-repeat -36px -720px;
+}
+/**编辑**/
+.bf4j-icon-row-edit{
+	background:url(images/config-icons.png) no-repeat -0px -684px;
+}
+.bf4j-icon-row-edit:hover{
+	background:url(images/config-icons.png) no-repeat -0px -720px;
+}
+/**刷新**/
+.bf4j-icon-row-refresh{
+  	background:url(images/config-icons.png) no-repeat -252px -684px;
+}
+.bf4j-icon-row-refresh:hover{
+  	background:url(images/config-icons.png) no-repeat -252px -720px;
+}
+/**重置**/
+.bf4j-icon-row-reset{
+	background:url(images/config-icons.png) no-repeat -108px -684px;
+}
+.bf4j-icon-row-reset:hover{
+	background:url(images/config-icons.png) no-repeat -108px -720px;
+}
+/**删除**/
+.bf4j-icon-row-delete{
+	background:url(images/config-icons.png) no-repeat -72px -684px;
+}
+.bf4j-icon-row-delete:hover{
+	background:url(images/config-icons.png) no-repeat -72px -720px;
+}
+/**关闭**/
+.bf4j-icon-row-close{
+	background:url(images/config-icons.png) no-repeat -360px -684px;
+}
+.bf4j-icon-row-close:hover{
+	background:url(images/config-icons.png) no-repeat -360px -720px;
+}
+/**历史记录**/
+.bf4j-icon-row-history{
+	background:url(images/config-icons.png) no-repeat -144px -684px;
+}
+.bf4j-icon-row-history:hover{
+	background:url(images/config-icons.png) no-repeat -144px -720px;
+}
+/**保存**/
+.bf4j-icon-row-save{
+	background:url(images/config-icons.png) no-repeat -288px -684px;
+}
+.bf4j-icon-row-save:hover{
+	background:url(images/config-icons.png) no-repeat -288px -720px;
+}
+/**查看**/
+.bf4j-icon-row-look{
+	background:url(images/config-icons.png) no-repeat -180px -684px;
+}
+.bf4j-icon-row-look:hover{
+	background:url(images/config-icons.png) no-repeat -180px -720px;
+}
+/**新增**/
+.bf4j-icon-row-add{
+	background:url(images/config-icons.png) no-repeat -216px -684px;
+}
+.bf4j-icon-row-add:hover{
+	background:url(images/config-icons.png) no-repeat -216px -720px;
+}
+/**下载**/
+.bf4j-icon-row-download{
+	background:url(images/config-icons.png) no-repeat -324px -684px;
+}
+.bf4j-icon-row-download:hover{
+	background:url(images/config-icons.png) no-repeat -324px -720px;
+}
+/***其他常用情景图标系列***/
+.bf4j-icon-other-fire
+{
+	background:url(images/config-icons.png) no-repeat -0px -773px;
+}
+.bf4j-icon-other-crown
+{
+	background:url(images/config-icons.png) no-repeat -28px -773px;
+}
+.bf4j-icon-other-goldmedal
+{
+	background:url(images/config-icons.png) no-repeat -56px -773px;
+}
+.bf4j-icon-other-hot
+{
+	background:url(images/config-icons.png) no-repeat -84px -773px;
+}
+.bf4j-icon-other-new
+{
+	background:url(images/config-icons.png) no-repeat -112px -773px;
+}

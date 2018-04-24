@@ -1,0 +1,167 @@
+body html{
+	padding: 0 ;
+	margin: 0 ;
+	font-family: 鈥樺井杞泤榛戔��;
+}
+.login{
+	margin: 0 auto;
+	padding: 0 auto;
+	width: 100%;
+	height:516px;
+	background: url(images/bg.png) ;
+	background-repeat: repeat-x; 
+	margin-top: 140px;
+	position: relative;
+	opacity: 0.7;
+}
+.login-input-bg{
+	width: 380px;
+	height: 260px;
+	top:50%;
+	left:50%;
+	margin-left: -150px;
+	margin-top: -170px;
+	background-color:#FFFFFF;
+	border: 1px solid #F5F5F5;
+	border-radius: 10px;
+	opacity: 0.3;
+	box-shadow: #565656 0 0 20px;
+	text-align: center;
+	position: absolute;
+}
+.login-input-bg2{
+	width: 380px;
+	height: 260px;
+	top:50%;
+	left:50%;
+	margin-left: -150px;
+	margin-top: -170px;
+	text-align: center;
+	position: absolute;
+
+}
+.input{
+	font-size: 16px;
+	width: 250px;
+	 color:#000000; 
+	border-bottom:1px solid #D65774; /* 涓嬪垝绾挎晥鏋� */ 
+	border-top:0px; 
+	border-left:0px; 
+	border-right:0px; 	
+	background-color:transparent; /* 鑳屾櫙鑹查�忔槑 */ 
+}
+.login-use{
+	width: 390px;
+	height: 60px;
+	border: 0px solid #F5F5F5;
+	margin-top:30px;
+}
+.password{
+	width: 390px;
+	height: 60px;
+	border: 0px solid #F5F5F5;
+}
+.button{
+	width: 200px;
+	  color: #FFFFFF;
+	  background-color: #d6063d;
+	  font-weight: 300;
+	  font-size: 16px;
+	  font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	  text-decoration: none;
+	  text-align: center;
+	  line-height: 40px;
+	  height: 40px;
+	  padding: 0 40px;
+	  margin: 0;
+	  display: inline-block;
+	  appearance: none;
+	  cursor: pointer;
+	  border: none;
+	  -webkit-box-sizing: border-box;
+	 -moz-box-sizing: border-box;
+	  box-sizing: border-box;
+	  -webkit-transition-property: all;
+	          transition-property: all;
+	  -webkit-transition-duration: .3s;
+	          transition-duration: .3s; 
+	 border-radius: 10px;
+	box-shadow: #F5F5F5 0 0 20px;
+}
+  .button:visited {
+    color: #e84132; }
+  .button:hover, .button:focus {
+    background-color: #e84132;
+    text-decoration: none;
+    outline: none; }
+  .button:active, .button.active, .button.is-active {
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
+    text-decoration: none;
+    background-color: #e84132;
+    border-color: #000;
+    color: #FFFFFF;
+    -webkit-transition-duration: 0s;
+            transition-duration: 0s;
+    -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.9);
+            box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.9); }
+  .button.disabled, .button.is-disabled, .button:disabled {
+    top: 0 !important;
+    background: #EEE !important;
+    border: 1px solid #DDD !important;
+    text-shadow: 0 1px 1px white !important;
+    color: #CCC !important;
+    cursor: default !important;
+    appearance: none !important;
+    -webkit-box-shadow: none !important;
+            box-shadow: none !important;
+    opacity: .8 !important; }
+    #foot{
+    	width:692px;
+    	height: 38px;
+    	background-image: url(imagesfoot.png);
+	margin-top: 170px;
+	top:50%;
+	left:50%;
+	margin-left: -346px;
+	position: absolute;
+    }
+    .head{
+    	width:279px;
+    	height: 40px;
+    	background-image: url(imagesLOGO.png);
+
+	top:50%;
+	left:50%;
+	margin-left: -139px;
+	position: absolute;
+    }
+#foot{
+	width:692px;
+	height: 38px;
+	background-image: url(images/foot.png);
+	margin-top: 170px;
+	top:50%;
+	left:50%;
+	margin-left: -346px;
+	position: absolute;
+}
+.head{
+	width:421px;
+	height: 61px;
+	background-image: url(images/LOGO.png);
+	top:50%;
+	left:50%;
+	margin-left: -210px;
+	margin-top: -260px;
+	position: absolute;
+	}
+.bg2{
+	 width:700px;
+	 height:472px;
+	 background:url(images/bg2.png);
+	 position:absolute;
+	 left:50%;
+	 top:0;
+	 margin-left:-380px;
+	 margin-top:71px;
+}

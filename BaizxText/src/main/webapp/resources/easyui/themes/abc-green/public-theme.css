@@ -1,0 +1,91 @@
+/*
+ * Copy Right Information : Forms Syntron 
+ * Project : 银链科技云链 Java EE 开发平台 <br>
+ * Description : 公共样式文件 。主框架和内页都会用到.
+ * Author : Leo Yang <br>
+ * Version : 1.0.0 <br>
+ * Since : 1.0.0 <br>
+ * Date : 2016-5-13<br>
+ */
+/**公共样式 add by leo**/
+.bf4j-line .bf4j-cell .bf4j-input select,
+.bf4j-line .bf4j-cell .bf4j-input input[type='text']:not(.combo-text),
+.bf4j-line .bf4j-cell .bf4j-input .validatebox-text
+.bf4j-line .bf4j-cell .bf4j-input textarea
+{
+	border:1px solid #D4D4D4;	
+}
+
+.bf4j-disabled,
+.bf4j-readonly
+{
+	background-color:#F2F2F2;
+	border:1px solid #D4D4D4;	
+}
+
+.bf4j-group .bf4j-group-title span,
+.bf4j-group-search .bf4j-group-title span {
+    color: #666666;
+}
+
+.bf4j-group .bf4j-group-title .icon-sup,
+.bf4j-group-search .bf4j-group-title .icon-sup{
+    background:url(images/contentBig.png) no-repeat -25px -50px;
+}
+.bf4j-group .bf4j-group-title .icon-sdown,
+.bf4j-group-search .bf4j-group-title .icon-sdown{
+    background:url(images/contentBig.png) no-repeat -50px -50px;
+}
+
+.bf4j-group .bf4j-group-content, 
+.bf4j-group-search .bf4j-group-content{
+    border: 1px solid #DFDFDF;
+}
+
+.bf4j-group .bf4j-noborder,
+.bf4j-group-search .bf4j-noborder,
+.bf4j-group-more .bf4j-noborder{
+	border:0px solid #ffffff;
+}
+
+/**按钮样式1号(大)**/
+.bf4j-btn {
+    color: #FFFFFF;
+	background-color: #47BE83;
+}
+/**按钮样式1号(中)**/
+.bf4j-btn-2 {
+    color: #FFFFFF;
+	background-color: #47BE83;
+}
+.bf4j-btn:hover,.bf4j-btn-2:hover{
+    background-color: #5BDC9C;
+}
+/**按钮样式3号(小)**/
+.bf4j-btn-3 {
+    color: #FFFFFF;
+    background-color: #5BDC9C;
+}
+.bf4j-btn-3:hover{
+	background-color: #47BE83;
+}
+
+.gotop{
+   background:url(images/contentBig.png) no-repeat -0px -490px;
+}
+.gotop:hover{
+   background:url(images/contentBig-hover.png) no-repeat -0px -490px;
+}
+
+/***扩展行级工具栏样式***/
+.datagrid-row-tool{
+    background-color:#F5F5F5;
+/*  box-shadow:0px 0px 1px 1px #D3D3D3;  */
+/* 	border:1px solid #D3D3D3; */
+}
+
+/****重构外部插件自带样式****/
+.combo-text{
+	background-color:#ffffff!important;
+/* 	border:1px solid #ffffff!important; */
+}

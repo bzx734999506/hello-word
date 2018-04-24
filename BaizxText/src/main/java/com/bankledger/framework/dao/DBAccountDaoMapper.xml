@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bankledger.framework.dao.DBAccountDao">
+  	
+  	<select id="query" resultType="com.bankledger.framework.bean.AccountDaoBean">
+  		select ACCOUNT_NO as accountNo,ACCOUNT_ICON as iconCls from bl_account where 1=1
+  		<if test="null!=accountNo and ''!=accountNo">
+  		 	<bind name="pattern" value="'%' + accountNo + '%'" />
+  			 and account_no like #{pattern,jdbcType=VARCHAR}
+  		</if>
+  		
+  	</select>
+</mapper>

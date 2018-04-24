@@ -1,0 +1,148 @@
+body {
+    font: 12px/20px "宋体", "宋体", Arial, sans-serif, Verdana, Tahoma;
+    background-color:#FFFFFF;
+    padding: 0;
+    margin: 0;
+}
+
+.max-div { 
+    padding: 0;
+    margin: 0;
+    background-color:#ffffff;
+    width:100%;
+    height:580px;
+    position:absolute;
+    top:50%;
+    margin:-290px 0px;
+}
+
+.top {
+    border:0px;
+    height:106px;
+    width:100%;
+    border-bottom:4px solid #C12F50;    
+}
+.top-content {
+    width:960px;
+    height:70px;
+    margin:0 auto;
+    padding:30px 0px 0px 20px;
+
+}
+.top .top-content .logo{
+    width:480px;
+    height:55px;
+    background:#FFFFFF url(images/login.png) no-repeat 0 0;
+}
+.center {
+    background:#FFFFFF url(images/background-center.png) repeat-x;
+    height:400px;
+}
+.center .center-content{
+    width:900px;
+    height:420px;
+    margin:0 auto;
+}
+.center .center-content .left{
+    background:url(images/login.png) no-repeat -420px -157px;
+    width:380px;
+    height:320px;
+    float:left;
+    margin:30px 0px 0px 20px;
+}
+.center .center-content .right{
+    background:url(images/login.png) no-repeat 0px -157px;
+    float:right;
+    width:420px;
+    height:335px;
+    margin:40px 20px 0px 0px;
+}
+.center .center-content .right .login-header {
+    height:50px;
+    text-align:center;
+    margin:0 auto;
+    font-size:22px;
+    font-family:"宋体";
+    color:#545454;
+    line-height:50px;
+}
+
+.center .center-content .right .textbox-user {
+    background:url(images/login.png) no-repeat 0px -50px;
+    margin:30px auto;
+    margin-bottom:0px;
+    width:255px;
+    height:55px;
+}
+.center .center-content .right .textbox-user input{
+   margin:11px 0px 10px 42px;
+   border:0px;
+   font-size:14px;
+   height:30px;
+   width:190px;
+   line-height:30px;
+}
+
+.center .center-content .right .textbox-pwd {
+    background:url(images/login.png) no-repeat 0px -100px;
+    margin:10px auto;
+    width:255px;
+    height:55px;
+}
+
+.center .center-content .right .textbox-pwd input{
+   margin:11px 0px 10px 42px;
+   border:0px;
+   font-size:14px;
+   height:30px;
+   width:190px;
+   line-height:30px;
+}
+
+.center .center-content .right .login-button{
+    height:50px;
+    border:1px solid #FFFFFF;
+    margin:15px auto;
+    margin-bottom:0px;
+    width:255px;
+}
+
+.center .center-content .right .login-button input {
+    height:40px;
+    width:250px;
+    border-radius:30px;
+    font-size:18px;
+    font-family:"瀹嬩綋";
+    color:#FFFFFF;
+    background-color:#E8484E;
+    cursor:pointer;
+    border:0px;
+}
+
+.center .center-content .right .login-button input:hover {
+    background-color:#C12F50;
+}
+
+.footer {
+    width:100%;
+    color:#808080;
+    letter-spacing:1px;
+    text-align:center;
+    margin:0 auto;
+    font: 13px "宋体", "宋体", Arial, sans-serif, Verdana, Tahoma;
+    line-height:25px;
+    height:60px;
+    padding:10px 0px 5px 0px;
+}
+
+.message{
+	color:red;	 
+	text-align:center;
+    margin:0 auto;
+    line-height:30px;
+    height:30px;
+    font-size: 14px;
+    letter-spacing:1px;
+    background-color:#FFFEE6;
+    width:90%;
+}

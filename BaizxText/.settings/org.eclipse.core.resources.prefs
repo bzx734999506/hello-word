@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/resources/locale/exception/exception_en.properties=UTF-8
+encoding//src/main/resources/locale/exception/exception_zh.properties=UTF-8
+encoding//src/main/resources/locale/label/label_en.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/views/common/include/include.jsp=UTF-8

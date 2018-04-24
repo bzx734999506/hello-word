@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd"
+	version="2.0">
+	
+	<description>bankledger Tag Library for url permission control</description>
+	<tlib-version>1.0</tlib-version>
+	<short-name>PermissionTag</short-name>
+	<uri>http://www.bankledger.com/tags/PermissionTag</uri>
+	<tag>
+		<description>a link permission control</description>
+		<name>Alink</name>
+		<tag-class>com.bankledger.tag.Alink</tag-class>
+		<body-content>JSP</body-content>
+		<attribute>
+			<description>the url will be checked to see if accessable by current user,if not accessable the button will show nothing</description>
+			<name>url</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the name of the button to be show</description>
+			<name>name</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the css style for the button</description>
+			<name>style</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the css class for the button</description>
+			<name>cssClass</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the ID of the button</description>
+			<name>id</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the javascript onClick Function</description>
+			<name>onclick</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	</tag>
+	<tag>
+		<description>div link permission control</description>
+		<name>DivLink</name>
+		<tag-class>com.bankledger.tag.DivLink</tag-class>
+		<body-content>JSP</body-content>
+		<attribute>
+			<description>the url will be checked to see if accessable by current user,if not accessable the divLink will show nothing</description>
+			<name>url</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the name of the link to be show</description>
+			<name>name</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the css style for the div</description>
+			<name>style</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the css class for the div</description>
+			<name>cssClass</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the ID of the div</description>
+			<name>id</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the data-options of the div</description>
+			<name>dataOptions</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the javascript onclick Function</description>
+			<name>onclick</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	</tag>
+	<tag>
+		<description>Pagination permission control</description>
+		<name>Pagination</name>
+		<tag-class>com.bankledger.tag.Pagination</tag-class>
+		<body-content>JSP</body-content>
+		<attribute>
+			<description>the url will be checked to see if accessable by current user,if not accessable the Pagination will show nothing</description>
+			<name>url</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the id of the Pagination to be show</description>
+			<name>id</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the css style for the Pagination</description>
+			<name>style</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<description>the onclick functionName for the Pagination</description>
+			<name>functionName</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+	</tag>
+</taglib>

@@ -1,0 +1,327 @@
+/*
+ * Copy Right Information : Forms Syntron 
+ * Project : 银链科技云链 Java EE 开发平台 <br>
+ * Description : 主框架配色样式。只有主框架用到(含首页).
+ * Author : Leo Yang <br>
+ * Version : 1.0.0 <br>
+ * Since : 1.0.0 <br>
+ * Date : 2016-5-13<br>
+ */
+ /****主框架布局样式***/
+.main-center-div {
+	background-color: white;
+}
+.md {
+	color: red;
+}
+#busi_status div span label{
+	color:red;
+}
+#busi_status div:hover{
+	color:#C01A3F;
+}
+/******pointMenu*******/
+
+.pointStart {
+    background:url(images/contentBig.png) no-repeat 0px -265px;
+    box-shadow:0px 0px 2px 2px #999;
+}
+.point-open {
+    background:url(images/contentBig.png) no-repeat -50px -265px;
+    box-shadow:0px 3px 2px 2px #999999;
+}
+.point-hover {
+    background:url(images/contentBig.png) no-repeat 0px -265px;
+}
+.pointPanel {
+    border:2px solid #ffffff;
+    box-shadow:0px 0px 2px 2px #999;
+    background-color:#0D0D0D;
+    color:#FFFFFF;
+}
+.pointPanel .point-header .seticon {
+    background:url(images/contentBig.png) no-repeat -0px -205px;
+}
+.pointPanel .point-header .qieicon {
+    background:url(images/contentBig.png) no-repeat -25px -205px;
+}
+.pointPanel .point-header .seticon:hover {
+    background:url(images/contentBig-hover.png) no-repeat -0px -205px;
+}
+.pointPanel .point-header .qieicon:hover {
+    background:url(images/contentBig-hover.png) no-repeat -25px -205px;
+}
+.pointPanel Ul li {
+    border:1px solid #0D0D0D;
+}
+.pointPanel Ul li a{
+    color:#FFFFFF;
+    border:1px solid #0D0D0D;
+}
+.pointMenu .pointPanel Ul li:hover {
+   background-color:#000;
+   border:1px solid #AAAAAA;
+}
+.pointMenu .bigPanel Ul li{
+    border:1px solid #0D0D0D;  
+}
+.pointMenu .bigPanel Ul li a{
+    color:#FFFFFF;
+}
+.pointMenu .bigPanel Ul li:hover{
+    border:1px solid #FFFFFF;
+}
+.pointMenu .bigPanel .point-header .qieicon {
+    background:url(images/contentBig.png) no-repeat -50px -205px;
+}
+.pointMenu .bigPanel .point-header .qieicon:hover {
+    background:url(images/contentBig-hover.png) no-repeat -50px -205px;
+}
+/****顶部区域*****/
+/**总高度82**/
+.top-websit {
+    background:url(images/top-websit-bg.png) no-repeat right;
+    border-bottom:2px solid #C01A3F;
+}
+.top-websit .left{
+    background:url(images/content_logo.png) no-repeat 20px 20px;
+}
+.top-websit .right .link-but a{
+    color:#000000;
+}
+.top-websit .right .link-but a:hover{
+    color:#C01A3F;
+}
+/*菜单区域宽度360*/
+.top-websit .messageSection{
+	color:#C01A3F;
+}
+.top-websit .messageSection a{
+	color:#F3382A;
+}
+.top-websit .messageSection .laba{
+   background:url(images/contentBig.png) no-repeat -55px -185px;
+}
+
+/*一级处理*/
+.top-websit .center .topmenu .onelevel a{
+    color:#000000;
+}
+.top-websit .center .topmenu .onelevel .down {
+    background:url(images/contentBig.png) no-repeat -100px -20px;
+}
+.top-websit .center .topmenu .onelevel .select {         
+    border:1px solid #C01A3F; 
+    background-color:#ffffff;
+    color:#C01A3F;
+}
+.top-websit .center .topmenu .onelevel .select-hasitem {   /*一级焦点*/
+    border:1px solid #C01A3F;
+    color:#C01A3F;
+    background-color:#ffffff;
+}
+
+/*二级处理*/
+.top-websit .center .topmenu .onelevel .twolevel{
+  border:1px solid #C01A3F;
+  background-color:#ffffff;
+}
+.top-websit .center .topmenu .onelevel .twolevel li a{
+    border:1px solid #ffffff;
+}
+.top-websit .center .topmenu .onelevel .twolevel li .sicon-right{
+    background:url(images/contentBig-hover.png) no-repeat -25px -160px;
+}
+.top-websit .center .topmenu .onelevel .twolevel li .sicon-left{
+    background:url(images/contentBig-hover.png) no-repeat -0px -160px;
+}
+.top-websit .center .topmenu .onelevel .twolevel li .select2{
+    border:1px solid #C01A3F;
+    background-color:#d52842;
+    color:#ffffff;
+}
+/*二级焦点*/
+.top-websit .center .topmenu .onelevel .twolevel li .select-hasitem2 {
+   border:1px solid #C01A3F;
+   border-right:0px solid #ffffff;
+   background-color:#d52842;
+   color:#ffffff;
+}
+.top-websit .center .topmenu .onelevel .twolevel li .select-hasitem2 .sicon-right{
+    background:url(images/contentBig.png) no-repeat -25px -160px;
+}
+.top-websit .center .topmenu .onelevel .twolevel li .select-hasitem2 .sicon-left{
+    background:url(images/contentBig.png) no-repeat -0px -160px;
+}
+
+/*三级及以下*/
+.top-websit .center .topmenu .onelevel .twolevel ul{
+  border:1px solid #C01A3F;
+  background-color:#ffffff;
+}
+.top-websit .center .topmenu .more-menu .sicon-more {
+   background:url(images/contentBig-hover.png) no-repeat -80px -25px;
+}
+.top-websit .center .topmenu .more-menu .root-hover .sicon-more {
+   background:url(images/contentBig-hover.png) no-repeat -0px -75px;
+}
+.top-websit .center .topmenu .more-menu .down{
+   background:url(images/contentBig-hover.png) no-repeat -25px -160px;
+}
+.top-websit .center .topmenu .more-menu .select-hasitem2 .down{
+   background:url(images/contentBig.png) no-repeat -25px -160px;
+}
+.top-websit .center .topmenu .more-menu .select2 .down{
+   background:url(images/contentBig.png) no-repeat -25px -160px;
+}
+.disable span{
+	color:#666666!important;	
+}
+
+/****左侧mini菜单****/
+.mini-tree .onelevel{
+  background-color:#D3D3D3;
+  border:1px solid #F2F2F2;
+  border-right:0px;
+  border-top:0px;
+}
+.mini-tree .onelevel a{
+  color:#000000;
+  border:1px solid #D3D3D3;  
+  border-left:0px;
+  border-right:0px;
+}
+.mini-tree .onelevel .sicon-right {
+  background:url(images/contentBig-hover.png) no-repeat -50px -25px;
+}
+.mini-tree .onelevel .select-hasitem .sicon-right{
+  background:url(images/contentBig-hover.png) no-repeat -50px -25px;
+}
+.mini-tree .onelevel .select {         
+  border:1px solid #C01A3F;
+  background-color:#ffffff;
+  color:#C01A3F;
+}
+.mini-tree .onelevel .select-hasitem {   /*一级焦点*/
+  border:1px solid #C01A3F;
+  color:#C01A3F;
+  background-color:#ffffff;
+}
+
+/*二级处理*/
+.mini-tree .onelevel .twolevel{
+  border:1px solid #C01A3F;
+  background-color:#ffffff;
+}
+.mini-tree .onelevel .twolevel li a{
+    border:1px solid #ffffff;
+}
+.mini-tree .onelevel .twolevel li .sicon-right{
+    background:url(images/contentBig-hover.png) no-repeat -25px -160px;
+}
+.mini-tree .onelevel .twolevel li .sicon-left{
+    background:url(images/contentBig-hover.png) no-repeat -0px -160px;
+}
+.mini-tree .onelevel .twolevel li .select2{
+    border:1px solid #C01A3F;
+    background-color:#d52842;
+    color:#ffffff;
+}
+
+/*二级焦点*/
+.mini-tree .onelevel .twolevel li .select-hasitem2 {
+   border:1px solid #C01A3F;
+   border-right:0px solid #ffffff;
+   background-color:#d52842;
+   color:#ffffff;
+}
+.mini-tree .onelevel .twolevel li .select-hasitem2 .sicon-right{
+    background:url(images/contentBig.png) no-repeat -25px -160px;
+}
+.mini-tree .onelevel .twolevel li .select-hasitem2 .sicon-left{
+    background:url(images/contentBig.png) no-repeat -0px -160px;
+}
+
+/*三级及以下*/
+.mini-tree .onelevel .twolevel ul{
+  border:1px solid #C01A3F;
+  background-color:#ffffff;
+}
+
+/****左侧区域*****/
+.user-info-div{
+	background-color: #F2F2F2;
+}
+.user-info-div .icon-user {
+	background:url(images/contentBig.png) no-repeat -0px -315px;
+}
+.user-info-div .icon-num {
+	background-color:#FF4F02;
+	color:#ffffff;
+}
+.user-info-div .icon-msg {
+	background:url(images/contentBig-hover.png) no-repeat -0px -25px;
+}
+.main-west-div {
+	background:#F2F2F2;
+	border-right:#ffffff;
+}
+#layout_west_tree{
+   background-color:#FFFFFF;
+}
+#layout_west_tree li .tree-node{
+    background-color:#D3D3D3;
+	border:1px solid #F2F2F2;
+}
+#layout_west_tree li ul li .tree-node{
+	background:#F2F2F2;
+}
+#layout_west_tree .selectedNode
+{
+	background-color:#c01a3f!important;
+}
+#layout_west_tree .selectedNode .tree-title
+{
+	color:#ffffff!important;
+}
+#layout_west_tree .tree-node-hover{
+	 background-color:#c01a3f!important;
+}
+#layout_west_tree .tree-node-hover .tree-title{
+	 color:#ffffff!important;
+}
+#layout_west_tree li .tree-node .tree-title{
+	color:#2F2E2E;
+}
+#layout_west_tree li ul li ul li .tree-node{
+    background:#F8F8F8;
+	border:1px dashed #D3D3D3;
+}
+.menu-tree-collapsed{
+	background:url(images/contentBig.png) no-repeat -50px -25px;
+}
+.tree-node-hover .menu-tree-collapsed{
+	background:url(images/contentBig-hover.png) no-repeat -50px -25px;
+}
+.menu-tree-expended{
+	background:url(images/contentBig.png) no-repeat -25px -25px;
+}
+.tree-node-hover .menu-tree-expended{
+	background:url(images/contentBig-hover.png) no-repeat -25px -25px;
+}
+.dislpayArrow a {
+	background: url(images/icon_arrow.png) no-repeat 0 0;
+}
+
+/***附加重构easyui ***/
+.tabs-leftline /**tabs与左边菜单合并线条处理**/
+{
+	background-color:#F2F2F2;
+}
+.mini-tree div{
+	background:url(images/contentBig.png) no-repeat -0px -315px;
+}
+.calendar-holiday-sign {
+	background-color: #fff0f0;
+    background: url(./images/holiday1.gif) right top no-repeat !important;
+}

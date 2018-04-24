@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bankledger.framework.dao.DBMenuGroupDao">
+  	<delete id="deleteList">
+  		delete from bl_menu_group 
+  		<where>  
+    		menu_id in  
+		    <foreach item="item" collection="list" separator="," open="(" close=")" index="">  
+		      #{item, jdbcType=VARCHAR}  
+		    </foreach>  
+       </where> 
+  	</delete>
+  	
+   <delete id="deleteListByGroupIdList">
+  		delete from BL_MENU_GROUP where GROUP_ID in
+  		<foreach collection="list" open="(" close=")" separator="," item="item">
+  			#{item,jdbcType=VARCHAR}
+  		</foreach>
+  	</delete>
+  	
+  	<insert id="insertList">
+  		 <foreach collection="param2" item="item" index="index" open="begin" close=";end;" separator=";">      	
+	    	insert into BL_MENU_GROUP (GROUP_ID,MENU_ID)
+	    	values 
+	        (#{param1,jdbcType=VARCHAR},#{item,jdbcType=VARCHAR})  
+	    </foreach>
+  	</insert>
+  	
+</mapper>

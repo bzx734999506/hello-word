@@ -1,0 +1,197 @@
+body {
+    font: 12px/20px "宋体", "宋体", Arial, sans-serif, Verdana, Tahoma;
+    background-color:#FFFFFF;
+    padding: 0;
+    margin: 0;
+}
+
+.max-div { 
+    padding: 0;
+    margin: 0;
+    background-color:#ffffff;
+    width:100%;
+    height:580px;
+    position:absolute;
+    top:20%;
+    margin:-290px 0px;
+}
+
+.top {
+    border:0px;
+    height:86px;
+    width:100%;
+    border-bottom:4px solid #C12F50;    
+}
+.top-content {
+    width:421px;
+    height: 61px;
+    background-image: url(images/LOGO.png);
+	top:50%;
+	left:50%;
+	margin-left: -210px;
+	margin-top: -255px;
+	position: absolute;
+
+}
+.left{
+	width:1336px;
+	height:475px;
+	background:url(images/bg3.png);
+	position:absolute;
+	left:50%;
+	top:0;
+	margin-left:-668px;
+	margin-top:73px;
+}
+.center {
+    margin: 0 auto;
+	padding: 0 auto;
+	width: 100%;
+	height:516px;
+	background: url(images/bg.png) ;
+	background-repeat: repeat-x; 
+	margin-top: 120px;
+	position: relative;
+}
+
+.login-header{
+	width: 380px;
+	height: 260px;
+	top:50%;
+	left:50%;
+	margin-left: -190px;
+	margin-top: -170px;
+	background-color:#FFFFFF;
+	border: 1px solid #F5F5F5;
+	border-radius: 10px;
+	opacity: 0.8;
+	box-shadow: #565656 0 0 20px;
+	text-align: center;
+	position: absolute;
+}
+.login-header2{
+	width: 380px;
+	height: 260px;
+	top:50%;
+	left:50%;
+	margin-left: -190px;
+	margin-top: -170px;
+	text-align: center;
+	position: absolute;	
+}
+
+.foot{
+    width: 700px;
+	height: 47px;
+	background-image: url(images/foot.png);
+	margin-top: 380px;
+	top:50%;
+	left:50%;
+	margin-left: -350px;
+	position: absolute;
+}
+
+.message{
+	color:red;	 
+	text-align:center;
+    margin:0 auto;
+    line-height:30px;
+    height:30px;
+    font-size: 14px;
+    letter-spacing:1px;
+    background-color:#FFFEE6;
+    width:90%;
+}
+.footer{
+	text-align:center;
+    margin:0 auto;
+    line-height:30px;
+    height:30px;
+    font-size: 13px;
+    margin-top:50px;
+}
+.input{
+	font-size: 16px;
+	width: 250px;
+	 color:#000000; 
+	border-bottom:1px solid #D65774; /* 下划线效果 */ 
+	border-top:0px; 
+	border-left:0px; 
+	border-right:0px; 	
+	background-color:transparent; /* 背景色透明 */ 
+}
+.textbox-user{
+	width: 390px;
+	height: 60px;
+	border: 0px solid #F5F5F5;
+	margin-top:40px;
+}
+.textbox-pwd{
+	width: 390px;
+	height: 60px;
+	border: 0px solid #F5F5F5;
+	margin-top:10px;
+}
+	.button{
+	width: 200px;
+	  color: #FFFFFF;
+	  background-color: #d6063d;
+	  font-weight: 300;
+	  font-size: 16px;
+	  text-decoration: none;
+	  text-align: center;
+	  line-height: 40px;
+	  height: 40px;
+	  padding: 0 40px;
+	  margin: 0;
+	  display: inline-block;
+	  appearance: none;
+	  cursor: pointer;
+	  border: none;
+	  -webkit-box-sizing: border-box;
+	 -moz-box-sizing: border-box;
+	  box-sizing: border-box;
+	  -webkit-transition-property: all;
+	          transition-property: all;
+	  -webkit-transition-duration: .3s;
+	          transition-duration: .3s; 
+	 border-radius: 10px;
+	box-shadow: #F5F5F5 0 0 20px;
+}
+  .button:visited {
+    color: #e84132; }
+  .button:hover, .button:focus {
+    background-color: #e84132;
+    text-decoration: none;
+    outline: none; }
+  .button:active, .button.active, .button.is-active {
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
+    text-decoration: none;
+    background-color: #e84132;
+    border-color: #000;
+    color: #FFFFFF;
+    -webkit-transition-duration: 0s;
+     transition-duration: 0s;
+    -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.9);
+     box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.9); }
+  .button.disabled, .button.is-disabled, .button:disabled {
+    top: 0 !important;
+    background: #EEE !important;
+    border: 1px solid #DDD !important;
+    text-shadow: 0 1px 1px white !important;
+    color: #CCC !important;
+    cursor: default !important;
+    appearance: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    opacity: .8 !important; }
+#loginform{
+	width: 380px;
+	height: 260px;
+	top:50%;
+	left:50%;
+	margin-left: -190px;
+	margin-top: -150px;
+	text-align: center;
+	position: absolute;
+}
